@@ -54,5 +54,5 @@ Ensure that the `padded_imgs/` directory contains properly structured folders, e
 
 ## 📬 Author
 
-- Developed by [Your Name]
+- Developed by Maaazzinn
 - For academic research or SAR target recognition applications.
